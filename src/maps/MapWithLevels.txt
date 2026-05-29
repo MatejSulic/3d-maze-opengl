@@ -1,0 +1,52 @@
+24x17x3
+xxxxxxxxxxxxxxxxxxxxxxxx
+x       x 1 T x   x    x
+xxxxxx  xxxAxxx   x  T x
+x T  A  x     x   A *  x
+x    x  x  *  x   x    x
+xxxAxx  x     x   xxxxxx
+x       A  H  A        x
+x       x  *  x        x
+x  *    x     x        x
+x       xxxAxxx        x
+x                      x
+xeAxxx    xxAxx        x
+x    x    x * x   xxAxxx
+x 0  x    x T x   x    x
+x    x    xxxxx   x *T x
+x    x            x    x
+xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx
+x       x 2 T x   x    x
+xxxxxx  xxxAxxx   x  T x
+x T  A  x     x   A *  x
+x    x  x  *  x   x    x
+xxxAxx  x     x   xxxxxx
+x       A  H  A        x
+x       x  *  x        x
+x  *    x     x        x
+x       xxxAxxx        x
+x                      x
+xe x x x xxxAxx        x
+x         x * x   xxAxxx
+x 0       e T x   x    x
+x 0       xxxxx   x *T x
+x 0@              x    x
+xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx
+x       x 3 T x   x    x
+xxxxxx  xxxAxxx   x  T x
+x T  A  x     x   A *  x
+x    x  x  *  x   x    x
+xxxAxx  x     x   xxxxxx
+x       A  H  A        x
+x       x  *  x        x
+x  *    x     x        x
+x   xxxxxxxAxxx        x
+x                      x
+xe  xx    xxAxx        x
+x    x xxxx * x   xxAxxx
+x         x T x   x    x
+x    x    xxxxx   x *T x
+x    x            x    x
+xxxxxxxxxxxxxxxxxxxxxxxx
