@@ -54,7 +54,7 @@ Built as a semester assignment at ZČU FAV (ZPG). The intent was to implement a 
 </p>
 
 <p align="center">
-  <video src="img%20/maze/2026-05-30%2016-28-05.mp4" controls width="100%"></video>
+  <video src="img%20/maze/Maze2.mp4" controls width="100%"></video>
 </p>
 
 ---
