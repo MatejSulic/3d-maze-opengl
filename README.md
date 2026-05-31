@@ -49,12 +49,12 @@ Built as a semester assignment at ZČU FAV (ZPG). The intent was to implement a 
 ## Screenshots & Demo
 
 <p align="center">
-  <img src="img%20/maze/Screenshot%202026-05-30%20163001.png" width="49%" />
-  <img src="img%20/maze/Screenshot%202026-05-30%20163012.png" width="49%" />
+  <img src="img/maze/Screenshot1.png" width="49%" />
+  <img src="img/maze/Screenshot2.png" width="49%" />
 </p>
 
 <p align="center">
-  <video src="img%20/maze/Maze2.mp4" controls width="100%"></video>
+  <video src="img/maze/Maze2.mp4" controls width="100%"></video>
 </p>
 
 ---
