@@ -53,9 +53,11 @@ Built as a semester assignment at ZČU FAV (ZPG). The intent was to implement a 
   <img src="img/maze/Screenshot2.png" width="49%" />
 </p>
 
-<p align="center">
-  <video src="img/maze/Maze2.mp4" controls width="100%"></video>
-</p>
+<video src="img/maze/Maze2_part1.mp4" controls width="100%"></video>
+
+<video src="img/maze/Maze2_part2.mp4" controls width="100%"></video>
+
+<video src="img/maze/Maze2_part3.mp4" controls width="100%"></video>
 
 ---
 
