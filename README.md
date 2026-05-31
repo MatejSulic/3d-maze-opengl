@@ -1,12 +1,12 @@
 # ZPG Semester Project — 3D First-Person Maze Explorer
 
-A first-person 3D dungeon crawler written from scratch in C# and OpenGL as a semester project for the Basics of Computer Graphics (ZPG) course.
+A first-person 3D dungeon crawler written from scratch in C# and OpenGL as a semester project for the ZPG course at ZČU FAV.
 
 ## About
 
 This is a multi-level 3D maze where you walk around, look around with the mouse, and use elevators to move between floors. The whole world is generated from a plain text file — each character in the grid becomes a wall, floor tile, or elevator in 3D space. It's not a game with a goal, it's more of a sandbox to learn how OpenGL actually works end-to-end.
 
-Built as a semester assignment at VŠB-TUO. The intent was to implement a complete rendering pipeline without relying on a game engine — no Unity, no Godot, just raw OpenGL calls and math.
+Built as a semester assignment at ZČU FAV (ZPG). The intent was to implement a complete rendering pipeline without relying on a game engine — no Unity, no Godot, just raw OpenGL calls and math.
 
 ---
 
@@ -46,13 +46,16 @@ Built as a semester assignment at VŠB-TUO. The intent was to implement a comple
 
 ---
 
-## Screenshots
+## Screenshots & Demo
 
-![Main view](screenshots/main.png)
+<p align="center">
+  <img src="img%20/maze/Screenshot%202026-05-30%20163001.png" width="49%" />
+  <img src="img%20/maze/Screenshot%202026-05-30%20163012.png" width="49%" />
+</p>
 
-![Multi-level map](screenshots/levels.png)
-
-> Add your screenshots to a `/screenshots` folder and update these paths.
+<p align="center">
+  <video src="img%20/maze/2026-05-30%2016-28-05.mp4" controls width="100%"></video>
+</p>
 
 ---
 
